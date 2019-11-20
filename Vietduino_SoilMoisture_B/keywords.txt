@@ -1,0 +1,20 @@
+#######################################
+# Syntax Coloring Map For Vietduino_SoilMoisture
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Vietduino_SoilMoisture				KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+read_digitalSoil				KEYWORD2
+read_analogSoid					KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+vietduino_sensor_soil_info			LITERAL1

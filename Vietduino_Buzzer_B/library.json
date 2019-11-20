@@ -1,0 +1,15 @@
+{
+  "name": "Vietduino_Buzzer",
+  "keywords": "vietduino, buzzer, makershop,edu sheld",
+  "description": "A library Vietduino Buzzer for communicating with Edu Base Sheld",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/baobon/MblockVietduino/tree/master/Vietduino_Library/Vietduino_Buzzer"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr",
+  ]
+}

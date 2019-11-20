@@ -1,0 +1,15 @@
+{
+  "name": "Vietduino_Rain",
+  "keywords": "Vietduino,Rain, makershop,edu sheld",
+  "description": "A library Vietduino Sensor Rain for communicating with Edu Base Sheld",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/baobon/MblockVietduino/tree/master/Vietduino_Library"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr",
+  ]
+}

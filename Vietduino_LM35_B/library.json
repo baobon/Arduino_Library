@@ -1,0 +1,15 @@
+{
+  "name": "Vietduino_LM35",
+  "keywords": "Vietduino,LM35, makershop,edu sheld",
+  "description": "A library Vietduino Sensor LM35 for communicating with Edu Base Sheld",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/baobon/MblockVietduino/tree/master/Vietduino_Library"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr",
+  ]
+}

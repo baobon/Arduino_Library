@@ -1,0 +1,15 @@
+{
+  "name": "Vietduino_Ultrasonic",
+  "keywords": "Vietduino,Ultrasonic, makershop,edu sheld",
+  "description": "A library Vietduino Ultrasonic for communicating with Edu Base Sheld",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/baobon/MblockVietduino/tree/master/Vietduino_Library"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr",
+  ]
+}

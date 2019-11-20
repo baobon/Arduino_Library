@@ -1,0 +1,20 @@
+#######################################
+# Syntax Coloring Map For Vietduino_Rain
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Vietduino_Rain					KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+read_digitalRain				KEYWORD2
+read_analogRain					KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+vietduino_sensor_rain_info			LITERAL1

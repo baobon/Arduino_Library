@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map For Vietduino_DHT
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Vietduino_DHT			        KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+readTemperature					KEYWORD2
+readHumidity					KEYWORD2
+begin       					KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+vietduino_dht_info			LITERAL1

@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map For Vietduino_Ultrasonic
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Vietduino_Ultrasonic			KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+getMeasure						KEYWORD2
+on								KEYWORD2
+stop							KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+vietduino_ultrasonic_info			LITERAL1
